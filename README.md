@@ -12,7 +12,7 @@
     A Collage/School database management system, where all the required details of administrative department, faculties, and studnts will be stored in different arranged sections but there will be a single container.
 
 ## Implimentation:
-# 1. Basic structure: 
+#   Basic structure: 
     Project will have different 3 different users... administrative, faculties and student.    Different modules:- fee,timetable,academic responce, feedback, appointment, and other more modules will be introduces with different updates.
 
     First i am plaining to use the basic workflow by using OOP and DS along with File handling and create a basic interface.
@@ -21,7 +21,7 @@
     After, after learining about cloud, i will create an online interface through which this application would be online acessiable.
 
 
-## Usage:
+#   Usage:
     My system will start, it will ask for authentication. Administrative department will have someting like adm in their login id, faculties will have fac in their login id, and students will have st in their login id.
     After login, they will be taken to their reapective dashboard. 
     Administrative user would be able to add/update/delete records.
